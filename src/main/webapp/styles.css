@@ -1,0 +1,39 @@
+ body {
+      font-family: Arial, sans-serif;
+    }
+    .resume {
+      max-width: 800px;
+      margin: 20px auto;
+      padding: 20px;
+      background-color: #f5f5f5;
+      border-radius: 10px;
+      box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    }
+    .header {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    .name {
+      font-size: 32px;
+      color: #3498db;
+      margin-bottom: 5px;
+    }
+    .job-title {
+      font-size: 20px;
+      color: #e74c3c;
+    }
+    .contact {
+      margin-bottom: 20px;
+    }
+    .section {
+      margin-bottom: 20px;
+    }
+    .section h2 {
+      font-size: 24px;
+      color: #2ecc71;
+      margin-bottom: 10px;
+    }
+    .section p {
+      font-size: 18px;
+    }
+    
